@@ -22,3 +22,4 @@ android/fastlane/report.xml
 
 # Android NDK Debug symbols
 debugSymbols
+lib/.env.dart
